@@ -1,0 +1,12 @@
+[labelImg 윈도우 설치]
+
+https://github.com/HumanSignal/labelImg/releases/tag/v1.8.1
+
+
+[labelme 설치]
+
+python 3.6 가상환경에서 실행
+
+pip install PyQt5
+pip install labelme==4.5.6
+
